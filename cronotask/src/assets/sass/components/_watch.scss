@@ -1,0 +1,18 @@
+.relogioNumero {
+  @include flex(row, center, center);
+  background-color: #5d677c;
+  box-shadow: 0.2rem 0.2rem 0.4rem #2b2b2b inset;
+  padding: 0.8rem 0.4rem;
+  border-radius: 1rem;
+  font-size: 8rem;
+
+  @media screen and (min-width: 1280px) {
+    height: 10.8rem;
+    width: 9rem;
+  }
+}
+
+.relogioDivisao {
+  font-size: 12rem;
+  margin-top: -2rem;
+}
