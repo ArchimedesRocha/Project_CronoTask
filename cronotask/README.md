@@ -1,8 +1,7 @@
 # Começando com Create React App
 
-No diretório do projeto, você pode executar:
+Acesse o diretório do projeto, e execute:
 
 ### `npm start`
 
-Executa o aplicativo no modo de desenvolvimento.\
-Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
+Agora acesse o seu localhost na porta 3000 (http://localhost:3000)
