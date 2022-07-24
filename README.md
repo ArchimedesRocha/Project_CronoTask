@@ -1,4 +1,4 @@
-# Começando com Create React App
+# Rodando a aplicação no seu ambiente local
 
 Acesse a pasta do projeto através do seu terminal e execute:
 ### `npm install`
