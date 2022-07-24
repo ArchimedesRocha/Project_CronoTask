@@ -1,6 +1,6 @@
 # Começando com Create React App
 
-Acesse a pasta cronotask apartir do seu terminal e execute:
+Acesse a pasta do projeto através do seu terminal e execute:
 
 ### `npm start`
 
